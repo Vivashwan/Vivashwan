@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivashwan" alt="vivashwan" /></a> </p>
 
-- 🔭 I’m currently working on [Synth](https://github.com/Vivashwan/formCraftAI)
+- 🔭 I’m currently working on [formCraftAI](https://github.com/Vivashwan/formCraftAI)
 
 - 🌱 I’m currently learning **Solidity, Firebase**
 
