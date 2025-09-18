@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Vivashwan Ghosh</h1>
-<h3 align="center">A MERN Stack and Blockchain developer.</h3>
+<h3 align="center">A Full Stack and Blockchain developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivashwan&label=Profile%20views&color=0e75b6&style=flat" alt="vivashwan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivashwan" alt="vivashwan" /></a> </p>
 
-- 🔭 I’m currently working on [Synth](https://github.com/Vivashwan/MINDSYNC)
+- 🔭 I’m currently working on [Synth](https://github.com/Vivashwan/formCraftAI)
 
 - 🌱 I’m currently learning **Solidity, Firebase**
 
 - 👯 I’m looking to collaborate on [Typer128](https://github.com/Vivashwan/js-typing-game)
 
-- 💬 Ask me about **CSS, JavaScript**
+- 💬 Ask me about **CSS, JavaScript, NextJs, ReactJs**
 
 - 📫 How to reach me **vivashwanwork@gmail.com**
 
-- ⚡ Fun fact **I'm learning to be more efficient.**
+- ⚡ Fun fact **I'm learning to be more productive and efficient.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
